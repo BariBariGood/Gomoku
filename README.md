@@ -43,10 +43,6 @@ To use the Gomoku AI:
 
 Contributions to the project are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request on GitHub.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 This project was inspired by the game of Gomoku and the desire to create an AI capable of playing the game at a high level. Special thanks to the developers of the minimax algorithm and alpha-beta pruning for their contributions to the field of artificial intelligence in games.
