@@ -4,6 +4,10 @@
 
 This project implements an AI for the game of Gomoku, also known as Five in a Row. Gomoku is a two-player game played on a grid, where the players take turns placing their pieces on the intersections of the lines. The first player to achieve five pieces in a row, either horizontally, vertically, or diagonally, wins the game.
 
+
+https://github.com/BariBariGood/Gomoku-AI/assets/108381046/2377e90a-3c75-4feb-bbd1-1c44c2d03ca6
+
+
 ## Features
 
 ### Heuristic Function
